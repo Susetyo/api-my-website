@@ -1,1 +1,6 @@
 [![Build Status](https://travis-ci.com/Susetyo/api-my-website.svg?branch=master)](https://travis-ci.com/Susetyo/api-my-website)
+[![Coverage Status](https://coveralls.io/repos/github/Susetyo/api-my-website/badge.svg?branch=master)](https://coveralls.io/github/Susetyo/api-my-website?branch=master)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/d684a546be38d475251a/test_coverage)](https://codeclimate.com/github/Susetyo/api-my-website/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/d684a546be38d475251a/maintainability)](https://codeclimate.com/github/Susetyo/api-my-website/maintainability)
+[![Build status](https://ci.appveyor.com/api/projects/status/gklep5gcwgn6cumo?svg=true)](https://ci.appveyor.com/project/Susetyo/api-my-website)
+[![Build status](https://ci.appveyor.com/api/projects/status/gklep5gcwgn6cumo/branch/master?svg=true)](https://ci.appveyor.com/project/Susetyo/api-my-website/branch/master)
